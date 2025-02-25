@@ -35,13 +35,13 @@ Trimmed unnecessary whitespace from textual data.
 
 **🔥 Key Insights & Findings**
 
-**🎯 Reach Analysis:**
+🎯 Reach Analysis:
 
 Posts discovered via "Explore" and "Hashtags" account for 75% of total reach.
 
 Optimizing hashtag usage significantly increases visibility.
 
-**💡 Engagement Metrics:**
+💡 Engagement Metrics:
 
 Posts with 3+ hashtags receive 2x more engagement than those without.
 
@@ -49,13 +49,13 @@ The average engagement rate per post stands at 4.5%.
 
 Profile visits convert into followers at a 12% rate, highlighting opportunities for growth optimization.
 
-**🏆 Hashtag Performance:**
+🏆 Hashtag Performance:
 
 Popular hashtags such as #data, #datascience, and #machinelearning drive the highest engagement.
 
 Hashtags play a critical role in expanding organic reach.
 
-**🔄 Profile Visit to Follows Conversion:**
+🔄 Profile Visit to Follows Conversion:
 
 Understanding conversion rates can help refine content strategies to maximize follower acquisition.
 
